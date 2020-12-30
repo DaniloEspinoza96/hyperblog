@@ -2,3 +2,5 @@ Este es un archivo sólo de prueba
 Bueno, esta prueba requiere cambios.
 y estará en el git
 hola
+Ahora meto un cambio random
+Otro cambio más
