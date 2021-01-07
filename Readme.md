@@ -1,4 +1,4 @@
-#**Este es un ejemplo de README.md**
+# **Este es un ejemplo de README.md**
 
 Es mi primer repositorio en Github así que con esto puedo ejemplificar lo que aprendí.
 
